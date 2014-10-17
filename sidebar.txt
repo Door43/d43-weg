@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[weg:home|Door43 (weg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-weg|d43-weg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-weg/archive/master.zip|d43-weg.zip]]
+
+**Recent Changes**
+{{changes>ns = weg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/weg|Ethnologue data]]
+
